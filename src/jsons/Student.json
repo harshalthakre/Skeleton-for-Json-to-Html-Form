@@ -1,0 +1,24 @@
+{
+  "name":"Harshal",
+  "age":21,
+  "address":{
+    "city":"Nagpur",
+    "zipcode":"N445156",
+    "area":{
+      "areaName":"Dharampeth",
+      "areaCode":"D12123",
+      "innerArea":{
+        "innerAreaName":"Friends Colony",
+        "innerAreaCode":"I1212",
+        "doubleInner":{
+          "doubleInnerName":"FC Road",
+          "doubleInnerCode":"FC2123"
+        }
+      }
+    }
+  },
+  "contact":{
+    "mobile":"8308214797",
+    "alternate":"8668313898"
+  }
+}
